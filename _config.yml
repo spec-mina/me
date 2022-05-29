@@ -1,4 +1,8 @@
 theme: jekyll-theme-cayman
+titles_from_headings:
+  enabled:     false
+  strip_title: false
+  collections: false
 github:
   is_project_page: false
 title: [Mina Nassif]
