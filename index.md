@@ -1,5 +1,3 @@
-### About Me
-
 My name is Mina Nassif and I am currently a Computer Science major at the University of Michigan.
 
 ### Stock Market Simulation
