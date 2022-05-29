@@ -1,6 +1,4 @@
-### About Me
 
-Describe myself here
 
 ### Stock Market Simulation
 
