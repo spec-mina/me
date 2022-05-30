@@ -10,9 +10,9 @@ Instead of matching buyers and sellers of a stock, this program matches Jedi and
 
 ### Priority Queues
 
-In this project, 3 different priority queues (PQ) have been implemented, a sorted PQ, a binary PQ, and a pairing PQ.
-The sorted PQ implements the priority queue interface by maintaining a sorted vector.
-The binary heap PQ implements the priority queue interface by maintaining a binary tree indexed into a vector (where 
+In this project, 3 different priority queues (PQ) have been implemented, a sorted PQ, a binary PQ, and a pairing PQ:
+- The sorted PQ implements the priority queue interface by maintaining a sorted vector.
+- The binary heap PQ implements the priority queue interface by maintaining a binary tree indexed into a vector (where 
 
 
 ### SQL-Like Database
