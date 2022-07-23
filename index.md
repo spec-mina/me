@@ -14,12 +14,16 @@ In this project, 3 different priority queues (PQ) have been implemented, a sorte
 - The sorted PQ implements the priority queue interface by maintaining a sorted vector.
 - The binary heap PQ implements the priority queue interface by maintaining a binary tree indexed into a vector (where 
 - The pairing PQ implements the priority queue interface by 
-
+Check out the spec and the code [here](https://gitfront.io/r/spec-mina/thH1hUMBMa8q/Priority-Queues/)!  
 
 ### SQL-Like Database
 
-This program is a simpler version of an SQL, utilizing commands such as CREATE, INSERT, JOIN, REMOVE, PRINT, and GENERATE INDEX. Through the generate index function, this program uses hash tables to speed up future commands.
+This program is a simpler version of an SQL, utilizing commands such as CREATE, INSERT, JOIN, REMOVE, PRINT, and GENERATE INDEX. Through the generate index function, this program uses hash tables to speed up future commands. Check out the spec and the code [here](https://gitfront.io/r/spec-mina/t6Ld69BYYsh6/SQL-Like-Database/)!
 
-### MST and Branch and Bound algorithms
+### Gotta Catch 'em All
 
-
+This program utilizes Minumum Spanning Trees and Branch and Bound algorithms to solve the Traveling Salesperson Problem. This program has three modes:
+- MST mode: this mode will devise a path that visits every pokemon location while minimizing the total distance of that path using Prim's algorithm
+- FASTTSP mode: this mode will produce a *close* to optimal TSP tour utilizing Nearest Neighborand 2-opt algorithms. For this reason, it will run much faster than the optimal TSP tour.
+- OPTTSP mode: this mode finds an optimal solution to the TSP (the actual minimum Euclidean distance necessary) by using an efficent Branch and Bound algorithm.
+Check out the spec and the code [here](https://gitfront.io/r/spec-mina/eaRK4g5JAWvg/MST-and-Branch-and-Bound-algorithms/)!  
