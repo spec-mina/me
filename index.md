@@ -27,9 +27,9 @@ In this project, 3 different priority queues (PQ) have been implemented: a sorte
 - The sorted PQ implements the priority queue interface by maintaining a sorted vector.
 
 
-- The binary heap PQ implements the priority queue interface by maintaining a binary tree indexed into a vector (where 
+- The binary heap PQ implements the priority queue interface by maintaining a binary tree indexed into a vector.
 
 
-- The pairing PQ implements the priority queue interface by 
+- The pairing PQ implements the priority queue interface by using a heap structure with child and sibling pointers.
 
 Check out the spec and the code [here](https://gitfront.io/r/spec-mina/thH1hUMBMa8q/Priority-Queues/)!
