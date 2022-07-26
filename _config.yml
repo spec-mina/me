@@ -3,8 +3,7 @@ titles_from_headings:
   enabled:     false
   strip_title: false
   collections: false
-github:
-  is_project_page: false
 title: Mina Nassif
 description: My Notable Projects
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+github:
+  is_project_page: false
